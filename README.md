@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/VedasreeM/VedasreeM/assets/126886440/c005a168-e905-497b-bae7-235c86f861cc)](https://github.com/VedasreeM)
+[![MasterHead](https://github.com/VedasreeM/VedasreeM/assets/126886440/dc25861a-2882-417b-b0fe-f60bbc85be63)](https://github.com/VedasreeM)
 <h1 align="center">Hi 👋, I'm Vedasree M, just another soul from this blue Terra!🌎</h1>
 <img align="right" alt="Coding" width="400"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2twaDdzM3c0cDE5bHRhd2x6eWZ5MW9idmhud3JvMnhtNWExc3p3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 <h3 align="center">Exploring the Digital Universe, One Line of Code at a Time!</h3>
